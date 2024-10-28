@@ -32,4 +32,5 @@ As investigation on Coffee House type coupon, the overall accept rate  is 50%. A
   b). Customers who visit cheap restaurant more than 4 times with income less than 50K (55%)
 
 ====== Link of Jupyter NoteBook ======
+https://github.com/wjd20170117/TheAnalysisOfCouponAcceptRate/blob/master/CouponAcceptanceRateAnalysis.ipynb
 
